@@ -18,11 +18,11 @@ Individual flights can then be favorited. Favorite flights will appear on the ma
 
 Implementation Details
 --------------
-All UI elements were built using Jetpack Compose 
-The database and associated queries were created using the Room database framework, including DAOs and entities 
-The UI is driven by a ViewModel that additionally makes use of Flow, StateFlow, and StateUi
-Coroutines are used for long-running queries
-Airports and favorited flights are stored in SQLite databases
+* All UI elements were built using Jetpack Compose 
+* The database and associated queries were created using the Room database framework, including DAOs and entities 
+* The UI is driven by a ViewModel that additionally makes use of Flow, StateFlow, and StateUi
+* Coroutines are used for long-running queries
+* Airports and favorited flights are stored in SQLite databases
 
 
 Running the App
