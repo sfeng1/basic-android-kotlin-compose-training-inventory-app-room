@@ -3,6 +3,7 @@ Flight Search App
 This is my solution code for the **Create a Flight Search app** code lab in the **Store and access data using keys with DataStore** pathway on developer.android.com.
 
 A link to the project brief can be found here: https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search#0
+
 You can find a video demo of the app here: https://youtu.be/goO5_6GT_ks
 
 Overview
