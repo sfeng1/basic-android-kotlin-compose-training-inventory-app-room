@@ -9,6 +9,7 @@ You can find a video demo of the app here: https://youtu.be/goO5_6GT_ks
 Overview
 ------------
 This app ingests a provided database of airports and uses it to construct a list of flights (each airport to every other airport).
+
 Users can then search for a specific airport by name or IATA code, the search bar will offer autocomplete suggestions based on the current input.
 
 Once a specific airport is selected, all flights originating from that airport are displayed.
